@@ -1,4 +1,5 @@
-## Oie, sou alberto vieira. Hoje trabalho sozinho num jogo web de terror, com uso de python e html5-css-js. Ainda estou aprendendo todas as funcionalidades de python e js, mas que já tenho uma base solida e boa.
+## Oie, sou alberto vieira. 
+Hoje trabalho sozinho num jogo web de terror, com uso de python e html5-css-js. Ainda estou aprendendo todas as funcionalidades de python e js, mas que já tenho uma base solida e boa.
 meus pronomes são ELE/DELE, e caso tenha interesse, o meu email pessoal é: albertojmichael@gmail.com
 E para acresentar, sou escritor nas horas vagas.
 
